@@ -1,5 +1,5 @@
-### ✨ Rudrax Dave ✨
-## Actively Looking for Summer'22 Internships | Graduate Student at University of Southern California- USC Viterbi School of Engineering | Ex-Chair IEEE BVM SB- NPSS
+## ✨ Rudrax Dave ✨
+### Actively Looking for Summer'22 Internships | Graduate Student at University of Southern California- USC Viterbi School of Engineering | Ex-Chair IEEE BVM SB- NPSS
 
 
 
