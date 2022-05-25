@@ -24,9 +24,11 @@ Qualifications include the following:
 - 👯 I’m looking to collaborate on DL, ML and Data Science Projects.
 - 💬 Ask me about #usc, #research, #losangeles, #datasciences, and #machinelearningalgorithms
 - 📫 How to reach me:
-![instagram](https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=white)]
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![Linkedin](https://img.shields.io/badge/Linked In-#0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)]
+LinkedIn : https://www.linkedin.com/in/rudrax-dave/
+Github : https://github.com/RudraxDave
+Instagram : https://www.instagram.com/live_it_like_r.d/
+Twitter : https://twitter.com/RudraxDave799
+Facebook : https://www.facebook.com/rudrax.dave.9/
 
 - 😄 Pronouns: He/Him/His
 - ⚡ I have interned before with organizations like Bhaskaracharya National Institute for Space Applications and Geo-Informatics (BISAG-N), Govt. of India as a Researcher and have worked on Machine Learning and Deep Learning Algorithms to result in BUILDINGS AND ROAD DETECTION FOR URBAN & RURAL AREA DEVELOPMENT WITH OPEN-SOURCE DATA of SATELLITE IMAGERY which integrated the two concepts together of CNN and GIS from their advantages over traditional classifiers and remote sensing techniques and goes on to implementing deep learning models and change detection after detection of Buildings and Roads in a particular Dataset and later assess the change in the span of period and giving the analysis of the output. Also Interned at GRE Electronics Pvt. Ltd for SOLAR Innovations for Everyday Life research, Hindustan Coca-Cola Beverages Pvt. Ltd., and West Coast Pharmaceuticals Pvt. Ltd. as Data-Base Management, ERP Software, and E-commerce Business Intern.
@@ -39,11 +41,7 @@ Qualifications include the following:
 
 - Projects: I have worked on Machine Learning Projects such as Urbanization Detection, Sales Forecasting, Android Applications like Lost'N Found, Campus Notify, etc.
 
-Rudrax Dave
-Masters Student - ECE (ML & DS)
-USC | Viterbi School of Engineering
-rddave@usc.edu
-Linkedin: https://www.linkedin.com/in/rudrax-dave/
+
 
 
 <!--
