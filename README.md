@@ -6,17 +6,17 @@ I am currently pursuing Masters of Science in Electrical and Computer Engineerin
 A learner with Alacrity, elementary, results-driven leader, and a team player having led multi-disciplinary Technical and Financial Festivals & Events.
 
 Qualifications include the following:
-
-• Budding Machine Learning & Data Science Engineer
-• Full Stack Android Development 
-• Cloud Database & Business Intelligence
-• Data Analytics Applications
-• Antenna Design and Development
-• Large-scale event plotting and execution
-• Public relations and Liaisons
-• Research and analysis
-• Small Scale Fund Raising
-• Creative Designer
+-
+- Budding Machine Learning & Data Science Engineer
+- Full Stack Android Development 
+- Cloud Database & Business Intelligence
+- Data Analytics Applications
+- Antenna Design and Development
+- Large-scale event plotting and execution
+- Public relations and Liaisons
+- Research and analysis
+- Small Scale Fund Raising
+- Creative Designer
 -
 -:-Teamwork . Hardworking . Technical Skills. Management . Communication . Confidence -:-
 
