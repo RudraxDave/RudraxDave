@@ -17,8 +17,7 @@ Qualifications include the following:
 - Research and analysis
 - Small Scale Fund Raising
 - Creative Designer
--
--:-Teamwork . Hardworking . Technical Skills. Management . Communication . Confidence -:-
+- -:-Teamwork . Hardworking . Technical Skills. Management . Communication . Confidence -:-
 
 - 🔭 I’m currently working on Fullstack project using Machine Learning Algorithms and Data Processing was on Forest Fires Prediction- where I Classified based on weather data collected from the regions. Tasked FeatureEngineering to Multiply the feature and used PCA methods for Selection of the concerned best features- and Implemented on Various Different Models. I am also working on the Deep Learning Project of American Sign Language Reader with Neural Networks and GAN
 - 🌱 I’m currently learning Advanced Machine Learning Algorithms, Algorithms and Data Structures.
