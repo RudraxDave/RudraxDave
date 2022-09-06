@@ -1,5 +1,5 @@
 ## ✨ Hi, This is Rudrax Dave ✨
-### Actively Looking for Summer'22 Internships | Graduate Student at University of Southern California- USC Viterbi School of Engineering | Ex-Chair IEEE BVM SB- NPSS
+### Actively Looking for Spring'23 Co-op & Full Time'23 Opportunities | Graduate Student at University of Southern California- USC Viterbi School of Engineering | Ex-Chair IEEE BVM SB- NPSS
 
 I am currently pursuing Masters of Science in Electrical and Computer Engineering( Specialization in Machine Learning and Data Science) from University of Southern California - USC Viterbi School of Engineering.
 
