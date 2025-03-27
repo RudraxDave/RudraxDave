@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/RudraxDave" target="_blank">
-    <img src="[Your Profile Picture URL Here]" width="150" height="150" style="border-radius: 50%;">
+    <img src="https://github.com/RudraxDave/RudraxDave/blob/main/dadadad.jpg" width="150" height="150" style="border-radius: 50%;">
   </a>
 </p>
 
