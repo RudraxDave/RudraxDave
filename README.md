@@ -297,7 +297,9 @@ Indian Patent Application No. **202121000544 A**
 Filed: **Jan 6, 2021** | Published: **Jan 29, 2021**  
 Role: **Co-inventor / Applicant**
 
-Officially published by the Indian Patent Office. Search by application number: `202121000544 A`.
+Officially published by the Indian Patent Office.  
+Search by application number: `202121000544 A`.
+
 ---
 
 ## 🛠️ Core Tech
