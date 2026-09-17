@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/RudraxDave" target="_blank">
+    <img src="https://github.com/RudraxDave/RudraxDave/blob/main/dadadad.jpg" width="150" height="150" style="border-radius: 50%;">
+  </a>
+</p>
+
 <h1 align="center">
   Hi, I'm Rudrax Dave
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -8,153 +14,136 @@
 </h3>
 
 <p align="center">
-  I currently work as a Senior AI Engineer supporting SanMar, building enterprise Agentic AI and Generative AI systems.
+  Senior AI Engineer with 5+ years of hands-on experience across machine learning, software engineering, applied AI, research, and production systems.
   <br><br>
-  Previously, I supported Microsoft as a Senior AI Engineer / Applied Scientist, working on production-grade AI systems, LLM-powered services, recommendation and fraud/risk systems, distributed microservices, and agentic workflows on Azure.
+  I currently support <b>SanMar</b> as a Senior AI Engineer, building enterprise Agentic AI and Generative AI systems.
   <br><br>
-  I hold an M.S. in Electrical and Computer Engineering — Machine Learning & Data Science from the University of Southern California (USC).
+  Previously, I supported <b>Microsoft</b> as a Senior AI Engineer / Applied Scientist, working on production-grade AI systems, LLM-powered services, recommendation and fraud/risk systems, distributed microservices, and agentic workflows on Azure.
+  <br><br>
+  I hold an <b>M.S. in Electrical and Computer Engineering — Machine Learning & Data Science</b> from the <b>University of Southern California (USC)</b>.
 </p>
+
 ---
 
 ## 🚀 What I Work On
 
 - 🤖 **Generative AI & LLM Systems**
-  - Agentic AI
+  - Agentic AI and multi-agent workflows
   - Retrieval-Augmented Generation (RAG)
-  - LLM orchestration
+  - LLM orchestration and tool use
   - Prompt engineering
   - Evaluation and observability
-  - Vector search / semantic retrieval
-  - AI agents and tool-use workflows
+  - Vector search and semantic retrieval
 
 - 🧠 **Machine Learning & Deep Learning**
-  - NLP
-  - Computer Vision
+  - NLP and Computer Vision
   - Recommendation systems
   - Graph Neural Networks
   - Reinforcement Learning
-  - Anomaly / fraud detection
+  - Fraud / anomaly detection
   - Classification and predictive modeling
 
 - ⚙️ **Production AI & Software Engineering**
-  - Python
-  - C#
-  - C++
-  - Java
-  - REST APIs
-  - Distributed microservices
-  - FastAPI / Django
-  - React / TypeScript
-  - SQL
+  - Python, C#, C++, Java, SQL
+  - REST APIs and distributed microservices
+  - FastAPI / Django / .NET
+  - React / TypeScript / Vue.js
 
 - ☁️ **Cloud, MLOps & Infrastructure**
-  - Microsoft Azure
-  - Azure AI Foundry
-  - Azure ML
-  - Azure OpenAI
+  - Microsoft Azure, Azure AI Foundry, Azure ML, Azure OpenAI
   - AKS / Kubernetes
   - AWS
-  - Docker
-  - CI/CD
+  - Docker and CI/CD
   - Model monitoring and evaluation
-  - SQL Server / Cosmos DB / PostgreSQL
-  - Vector databases
+  - SQL Server, Cosmos DB, PostgreSQL, Vector Databases
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
 ### 🟢 Senior AI Engineer — SanMar
 **Jul 2026 – Present**
-
-Supporting SanMar through a consulting engagement.
 
 - Building **Agentic AI / Generative AI systems**
 - Developing production AI services and enterprise AI workflows
 - Working across AI engineering, software engineering, and scalable production systems
 
-**Legal Employer:** Machine Learning Technologies LLC  
-**Staffing / Vendor Partner:** AG Consulting Partners  
-**Internal Consulting Title:** Principal Consultant
-
----
+> Consulting engagement via Machine Learning Technologies LLC / AG Consulting Partners. Internal consulting title: Principal Consultant.
 
 ### 🔵 Senior AI Engineer / Applied Scientist — Microsoft
 **May 2025 – Jul 2026**
 
-Worked as a contract Senior AI Engineer / Applied Scientist supporting Microsoft AI/ML initiatives.
-
-- Built scalable distributed microservices and REST APIs using **C#/.NET, Azure and AKS**
+- Built scalable distributed microservices and REST APIs using **C#/.NET, Azure, and AKS**
 - Developed and optimized **RiskEngine and recommendation systems** for fraud detection and anomaly scoring
-- Built **LLM-powered search, recommendation and agentic workflows**
-- Used **Azure AI Foundry, Azure ML, Azure OpenAI, SQL Server, Cosmos DB and KQL**
-- Developed production telemetry, observability and model-monitoring systems
+- Built **LLM-powered search, recommendation, and agentic workflows**
+- Worked with **Azure AI Foundry, Azure ML, Azure OpenAI, SQL Server, Cosmos DB, and KQL**
+- Developed production telemetry, observability, and model-monitoring systems
 - Built AI tooling using **GitHub Copilot and Model Context Protocol (MCP)**
 
-Employment structure:
-- **May 2025 – Sep 2025:** AG Consulting Partners
-- **Oct 2025 – Jul 2026:** Machine Learning Technologies LLC
-- AG Consulting Partners continued as staffing/vendor partner
-
----
+> Contract engagement through AG Consulting Partners / Machine Learning Technologies LLC.
 
 ### 🟣 Machine Learning / Software Engineer — Everly HSE Corp
 **Jul 2024 – May 2025**
 
-Client engagement via **Tweak Coders LLC**, my legal/payroll and STEM OPT employer.
-
-- Developed ML and Generative AI systems using **Python, NLP and deep learning**
-- Built data integration pipelines using **Python, SQL, AWS and Azure**
-- Worked with **PyTorch, TensorFlow, ONNX and NVIDIA Triton**
+- Developed ML and Generative AI systems using **Python, NLP, and deep learning**
+- Built data integration pipelines using **Python, SQL, AWS, and Azure**
+- Worked with **PyTorch, TensorFlow, ONNX, and NVIDIA Triton**
 - Developed predictive and simulation systems for industrial safety applications
 
----
+> Client engagement via Tweak Coders LLC, my legal/payroll and STEM OPT employer.
 
 ### 🟠 Machine Learning / Software Engineer — Bear Brown & Company
 **Mar 2024 – Jul 2024**
-
-Early-stage startup role during OPT.
 
 - Built a web-based Data Asset Management platform
 - Developed ML / NLP workflows using **BERT and GPT-based models**
 - Integrated a **RAG-based chatbot**
 - Worked on AWS-based CI/CD and deployment infrastructure
 
-After the formal role ended, I continued providing occasional informal technical and advisory support.
-
----
+> Early-stage startup role during OPT. Continued occasional informal technical/advisory support after the formal role ended.
 
 ### ⚫ Software Engineer — BlackPearl Technology
 **Aug 2023 – Mar 2024**
 
 - Developed **Qt/C++ systems** for embedded and industrial applications
-- Worked with ARM processors, Yocto Linux, SPI, MQTT and GPIO
+- Worked with ARM processors, Yocto Linux, SPI, MQTT, and GPIO
 - Built Python/Django APIs and React-based tooling
-- Improved system reliability, performance and real-time sensor processing
+- Improved system reliability, performance, and real-time sensor processing
 
 ---
 
-# 🧪 Selected AI / ML Projects
+## 🧪 Selected AI / ML Projects
 
-## 🧬 Gene–Disease Association Prediction with Graph Neural Networks
-
+### 🧬 Gene–Disease Association Prediction with Graph Neural Networks
 Built graph-based ML models for predicting gene-disease relationships using:
-
 - Graph Attention Networks (GAT)
 - GraphSAGE
 - Graph embeddings
-- Large-scale biomedical graph data
+- Biomedical graph data
 - AUC-ROC / F1 evaluation
 
 🔗 [View Repository](https://github.com/RudraxDave/Gene_Disease_Association_Prediction_with_GAT)
 
----
+### 💬 RAG-Based AI Customer Support Chatbot
+Developed a retrieval-augmented chatbot architecture using:
+- LangChain
+- LlamaIndex
+- LLM APIs
+- Vector search
+- Retrieval pipelines
+- Context-aware response generation
 
-## 🤟 American Sign Language Recognition
+### 💼 AI-Powered Personalized Job Application Generator
+Built an AI-assisted job application generation system using:
+- Retrieval-Augmented Generation
+- LLMs
+- Weaviate
+- Vector embeddings
+- Resume parsing
+- Personalized text generation
 
-Deep-learning system for recognizing American Sign Language gestures.
-
-Technologies:
+### 🤟 American Sign Language Recognition
+Deep-learning system for recognizing American Sign Language gestures using:
 - CNN
 - ResNet50
 - PyTorch / TensorFlow
@@ -163,13 +152,16 @@ Technologies:
 
 🔗 [View Repository](https://github.com/RudraxDave/AmericanSignLanguage_Reader)
 
----
+### 🎥 Text-to-Video Generation with Diffusion Models
+Built an AI-powered text-to-video generation workflow using:
+- Hugging Face Diffusers
+- Generative AI
+- GPU acceleration
+- Prompt engineering
+- Deep learning inference
 
-## 🏙️ Los Angeles Foreclosure Analytics
-
-Distributed-data and analytics project for foreclosure-rate analysis.
-
-Technologies:
+### 🏙️ Los Angeles Foreclosure Analytics
+Distributed-data and analytics project using:
 - Python
 - SQL / MySQL
 - Distributed file processing
@@ -178,13 +170,11 @@ Technologies:
 
 🔗 [View Repository](https://github.com/RudraxDave/LA_Foreclosure_Rates_Analysis)
 
----
+<details>
+<summary><b>More Projects</b></summary>
 
-## 🔥 Forest Fire Prediction
-
-Machine-learning classification project using environmental and weather data.
-
-Focus:
+### 🔥 Forest Fire Prediction
+Machine-learning classification project focused on:
 - Feature engineering
 - Classification
 - Model evaluation
@@ -192,10 +182,7 @@ Focus:
 
 🔗 [View Repository](https://github.com/RudraxDave/ForestFires_Prediction)
 
----
-
-## 🗺️ Campus Navigation System
-
+### 🗺️ Campus Navigation System
 Graph-based navigation application written in **C++**.
 
 Focus:
@@ -206,12 +193,8 @@ Focus:
 
 🔗 [View Repository](https://github.com/RudraxDave/CampusNavigation)
 
----
-
-## 🔎 LostNFound — Smart Lost & Found Platform
-
+### 🔎 LostNFound — Smart Lost & Found Platform
 University-oriented lost-and-found application with:
-
 - Image uploads
 - Smart matching
 - Image recognition
@@ -219,47 +202,11 @@ University-oriented lost-and-found application with:
 
 🔗 [View Repository](https://github.com/RudraxDave/LostNFound)
 
----
-
-## 🎥 Text-to-Video Generation with Diffusion Models
-
-Built an AI-powered text-to-video generation workflow using:
-
-- Hugging Face Diffusers
-- Generative AI
-- GPU acceleration
-- Prompt engineering
-- Deep learning inference
+</details>
 
 ---
 
-## 💼 AI-Powered Personalized Job Application Generator
-
-Built an AI-assisted job application generation system using:
-
-- Retrieval-Augmented Generation
-- LLMs
-- Weaviate
-- Vector embeddings
-- Resume parsing
-- Personalized text generation
-
----
-
-## 💬 RAG-Based AI Customer Support Chatbot
-
-Developed a retrieval-augmented chatbot architecture using:
-
-- LangChain
-- LlamaIndex
-- LLM APIs
-- Vector search
-- Retrieval pipelines
-- Context-aware response generation
-
----
-
-# 🎓 Education
+## 🎓 Education
 
 ### University of Southern California
 **Master of Science — Electrical and Computer Engineering**  
@@ -282,29 +229,28 @@ Relevant areas:
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
 - Microsoft Certified: **Azure AI Engineer Associate**
 - **Career Essentials in Generative AI** — Microsoft & LinkedIn
 - **Vector Databases Professional Certificate** — Weaviate
 - **Docker Foundations Professional Certificate**
+
+### Additional Training
 - Generative AI & Microsoft Copilot
 - Responsible AI / Generative AI
 - Advanced AI: Transformers for Computer Vision
 - Machine Learning with Python
-- CITI Research Certifications:
+- CITI Research Training:
   - Biomedical Human Subjects
   - Research HIPAA
   - GCP / Social & Behavioral Research
 
 ---
 
-# 🏛️ Leadership, Technical Communities & Volunteering
-
-Alongside engineering and research, I have been actively involved in technical leadership, student organizations, conferences and professional communities.
+## 🏛️ Leadership & Technical Communities
 
 ### IEEE
-
 - **Chairperson — IEEE BVM Student Branch NPSS Chapter**
 - **Organizing Lead — Virtual Visit on Modern Physics (VVMP'20)**
 - **Organizing Director / Team Lead — International Tech Conclave 2020**
@@ -312,60 +258,29 @@ Alongside engineering and research, I have been actively involved in technical l
 - **IEEE Power & Energy Society Brand Ambassador**
 - **IEEE Computer Society — Student Member**
 - **IEEE Industry Applications Society — Student Member**
-- Long-term IEEE student volunteer
 
-As organizing lead for **VVMP'20**, I helped coordinate virtual technical sessions, livestreams, conferences, workshops and online visits. Public event records list me as both **Organizing Lead of VVMP'20** and **Chair of the IEEE BVM SB NPSS Chapter**.
-
-### USC Association of Indian Students — AIS
-
+### USC Association of Indian Students
 **Deputy President — Dec 2021 to Jul 2023**
 
-Supported student-community programs, university events and organizational activities at USC.
-
-### ISTE
-
-**Student Volunteer**
-
-Participated in student-development and technical-education initiatives.
-
 ### USC Viterbi School of Engineering
-
 **Grader — Advanced Linear Algebra for Machine Learning**
 
-Supported coursework and grading for graduate-level linear algebra.
-
-### NSFT — National Symposium on Futuristic Technologies
-
-**Marketing & Registrations Lead**
-
-Supported a national symposium covering technologies including:
-- Machine Learning
-- Cloud Computing
-- Cybersecurity
-- IoT
-- Space Technology
-- Emerging engineering systems
-
-### Gujarat Industrial Hackathon
-
-**Registration Team Member**
-
-Supported organization and execution of the state-level industrial hackathon.
+### Other Technical Leadership
+- ISTE Student Volunteer
+- NSFT — Marketing & Registrations Lead
+- Gujarat Industrial Hackathon — Registration Team Member
 
 ---
 
-# 📚 Research & Technical Experience
+## 📚 Research & Technical Experience
 
 ### World Resources Institute — Data Scientist
-
-Worked on geospatial analytics, ML and large-scale imagery processing for school-bus infrastructure planning.
+Worked on geospatial analytics, ML, and large-scale imagery processing for school-bus infrastructure planning.
 
 ### USC Michelson Center / CSI-Cancer — Graduate Research Assistant
-
-Worked on deep learning, predictive analytics and mobile-health / research applications.
+Worked on deep learning, predictive analytics, and research applications.
 
 ### BISAG-N — Data Scientist / Research Thesis
-
 Worked on:
 - Computer vision
 - U-Net segmentation
@@ -376,52 +291,43 @@ Worked on:
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Core Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ### Languages
-
 `Python` `C++` `C#` `Java` `SQL` `JavaScript` `TypeScript` `Bash` `Scala`
 
 ### AI / ML
-
-`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `LangChain` `LlamaIndex`
+`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `LangChain` `LlamaIndex`  
 `OpenCV` `XGBoost` `Graph Neural Networks` `Transformers`
 
 ### GenAI / LLM
-
-`RAG` `Agentic AI` `LLM Evaluation` `Prompt Engineering`
-`Azure OpenAI` `Azure AI Foundry` `Vector Search`
-`MCP` `LLM Observability`
+`RAG` `Agentic AI` `LLM Evaluation` `Prompt Engineering`  
+`Azure OpenAI` `Azure AI Foundry` `Vector Search` `MCP` `LLM Observability`
 
 ### Cloud / MLOps
-
-`Azure` `AWS` `AKS` `Kubernetes` `Docker`
-`CI/CD` `MLflow` `NVIDIA Triton`
+`Azure` `AWS` `AKS` `Kubernetes` `Docker` `CI/CD` `MLflow` `NVIDIA Triton`
 
 ### Data
-
-`PostgreSQL` `SQL Server` `MySQL`
-`Cosmos DB` `MongoDB`
-`Vector Databases`
+`PostgreSQL` `SQL Server` `MySQL` `Cosmos DB` `MongoDB` `Vector Databases`
 
 ### Software Engineering
-
-`.NET` `Django` `FastAPI`
-`React` `Vue.js`
-`REST APIs`
-`Microservices`
+`.NET` `Django` `FastAPI` `React` `Vue.js` `REST APIs` `Microservices`
 
 ### Embedded / Systems
-
-`Qt` `ARM` `Yocto Linux`
-`SPI` `MQTT` `GPIO`
+`Qt` `ARM` `Yocto Linux` `SPI` `MQTT` `GPIO`
 
 ---
 
-# 🌱 Current Focus
+## 🌱 Current Focus
 
-I'm currently interested in building:
-
+I'm currently focused on:
 - Production-grade **Agentic AI platforms**
 - Scalable **LLM inference and retrieval systems**
 - AI evaluation and observability
@@ -433,7 +339,16 @@ I'm currently interested in building:
 
 ---
 
-# 📫 Connect With Me
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudraxDave&show_icons=true&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraxDave&layout=compact" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/rudrax-dave](https://www.linkedin.com/in/rudrax-dave/)
 - **GitHub:** [github.com/RudraxDave](https://github.com/RudraxDave)
