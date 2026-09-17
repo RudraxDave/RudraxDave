@@ -1,22 +1,19 @@
+<h1 align="center">
+  Hi, I'm Rudrax Dave
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+<h3 align="center">
+  Senior AI Engineer | Generative AI | Agentic AI | LLM Systems | Machine Learning | Software Engineering
+</h3>
+
 <p align="center">
-  <a href="https://github.com/RudraxDave" target="_blank">
-    <img src="https://github.com/RudraxDave/RudraxDave/blob/main/dadadad.jpg" width="150" height="150" style="border-radius: 50%;">
-  </a>
+  I currently work as a Senior AI Engineer supporting SanMar, building enterprise Agentic AI and Generative AI systems.
+  <br><br>
+  Previously, I supported Microsoft as a Senior AI Engineer / Applied Scientist, working on production-grade AI systems, LLM-powered services, recommendation and fraud/risk systems, distributed microservices, and agentic workflows on Azure.
+  <br><br>
+  I hold an M.S. in Electrical and Computer Engineering — Machine Learning & Data Science from the University of Southern California (USC).
 </p>
-
-<h1 align="center">Hi, I'm **Rudrax Dave** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">**Senior AI Engineer | Generative AI | Agentic AI | LLM Systems | Machine Learning | Software Engineering**</h3>
-
-<p align="center">
-  I currently work as a **Senior AI Engineer supporting SanMar**, building enterprise Agentic AI and Generative AI systems.
-
-Previously, I supported **Microsoft** as a **Senior AI Engineer / Applied Scientist**, working on production-grade AI systems, LLM-powered services, recommendation and fraud/risk systems, distributed microservices, and agentic workflows on Azure.
-</p>
-
-<p align="center">
-
-I hold an **M.S. in Electrical and Computer Engineering — Machine Learning & Data Science** from the **University of Southern California (USC)**.
-
 ---
 
 ## 🚀 What I Work On
